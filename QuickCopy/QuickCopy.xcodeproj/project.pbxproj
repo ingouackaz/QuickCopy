@@ -14,6 +14,7 @@
 		A04914AD1AD1769300AE198F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A04914AC1AD1769300AE198F /* Images.xcassets */; };
 		A04914B01AD1769300AE198F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A04914AE1AD1769300AE198F /* LaunchScreen.xib */; };
 		A04914BC1AD1769300AE198F /* QuickCopyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04914BB1AD1769300AE198F /* QuickCopyTests.swift */; };
+		A04914C61AD1814200AE198F /* GameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04914C51AD1814200AE198F /* GameVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		A04914B51AD1769300AE198F /* QuickCopyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickCopyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A04914BA1AD1769300AE198F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A04914BB1AD1769300AE198F /* QuickCopyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickCopyTests.swift; sourceTree = "<group>"; };
+		A04914C51AD1814200AE198F /* GameVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				A04914A21AD1769200AE198F /* AppDelegate.swift */,
 				A04914A71AD1769200AE198F /* ViewController.swift */,
 				A04914A91AD1769300AE198F /* Main.storyboard */,
+				A04914C51AD1814200AE198F /* GameVC.swift */,
 				A04914AC1AD1769300AE198F /* Images.xcassets */,
 				A04914AE1AD1769300AE198F /* LaunchScreen.xib */,
 				A04914A41AD1769200AE198F /* QuickCopy.xcdatamodeld */,
@@ -217,6 +220,7 @@
 			files = (
 				A04914A81AD1769200AE198F /* ViewController.swift in Sources */,
 				A04914A61AD1769200AE198F /* QuickCopy.xcdatamodeld in Sources */,
+				A04914C61AD1814200AE198F /* GameVC.swift in Sources */,
 				A04914A31AD1769200AE198F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

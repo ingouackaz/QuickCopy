@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuickCopy/GameVC.swift"
+            timestampString = "449941336.929739"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "GameVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickCopy.GameVC._counterNumber.setter : Swift.Int"
+                  moduleName = "QuickCopy"
+                  urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
+                  timestampString = "449941774.426144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickCopy.GameVC._counterNumber.materializeForSet : Swift.Int"
+                  moduleName = "QuickCopy"
+                  urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
+                  timestampString = "449941774.426306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickCopy.GameVC.init (QuickCopy.GameVC.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; QuickCopy.GameVC"
+                  moduleName = "QuickCopy"
+                  urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
+                  timestampString = "449941774.426436"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "964">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickCopy.GameVC.init (QuickCopy.GameVC.Type)() -&gt; QuickCopy.GameVC"
+                  moduleName = "QuickCopy"
+                  urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
+                  timestampString = "449941774.426561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "955">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickCopy.GameVC.init (QuickCopy.GameVC.Type)(coder : ObjectiveC.NSCoder) -&gt; QuickCopy.GameVC"
+                  moduleName = "QuickCopy"
+                  urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
+                  timestampString = "449941774.426681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "974">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuickCopy/GameVC.swift"
+            timestampString = "449941893.440595"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "update()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
