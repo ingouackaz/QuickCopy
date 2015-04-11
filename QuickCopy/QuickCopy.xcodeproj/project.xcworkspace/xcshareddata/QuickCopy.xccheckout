@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A45A4361-D77E-4790-ACED-861AD1791D3B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>QuickCopy</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>461334287AC6B8B789FC8395A8C61699B2C844B8</key>
 		<string>https://github.com/ingouackaz/QuickCopy.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>QuickCopy/QuickCopy.xcodeproj</string>
+	<string>QuickCopy/QuickCopy.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>461334287AC6B8B789FC8395A8C61699B2C844B8</key>

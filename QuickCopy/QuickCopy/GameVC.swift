@@ -53,6 +53,17 @@ class GameVC: UIViewController {
         numberCopy.hidden = true
         chronoCircle.hidden = true
         chronoNumber.hidden = true
+        pauseButton.hidden = false
+        number1Button.hidden = false
+        number2Button.hidden = false
+        number3Button.hidden = false
+        number4Button.hidden = false
+        number5Button.hidden = false
+        number6Button.hidden = false
+        number7Button.hidden = false
+        number8Button.hidden = false
+        number9Button.hidden = false
+        number0Button.hidden = false
     }
     
     
@@ -64,6 +75,7 @@ class GameVC: UIViewController {
         if (_counterNumber == 0) {
          
         _timer.invalidate()
+        playingMode().self
             
         }
         _counterNumber--

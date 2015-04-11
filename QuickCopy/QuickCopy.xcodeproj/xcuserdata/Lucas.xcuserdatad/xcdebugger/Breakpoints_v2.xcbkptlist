@@ -6,7 +6,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "QuickCopy/GameVC.swift"
@@ -19,11 +19,12 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "QuickCopy.GameVC._counterNumber.setter : Swift.Int"
                   moduleName = "QuickCopy"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
                   timestampString = "449941774.426144"
                   startingColumnNumber = "9223372036854775807"
@@ -33,11 +34,12 @@
                   offsetFromSymbolStart = "24">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "QuickCopy.GameVC._counterNumber.materializeForSet : Swift.Int"
                   moduleName = "QuickCopy"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
                   timestampString = "449941774.426306"
                   startingColumnNumber = "9223372036854775807"
@@ -47,11 +49,12 @@
                   offsetFromSymbolStart = "25">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "QuickCopy.GameVC.init (QuickCopy.GameVC.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; QuickCopy.GameVC"
                   moduleName = "QuickCopy"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
                   timestampString = "449941774.426436"
                   startingColumnNumber = "9223372036854775807"
@@ -61,11 +64,12 @@
                   offsetFromSymbolStart = "964">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "QuickCopy.GameVC.init (QuickCopy.GameVC.Type)() -&gt; QuickCopy.GameVC"
                   moduleName = "QuickCopy"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
                   timestampString = "449941774.426561"
                   startingColumnNumber = "9223372036854775807"
@@ -75,11 +79,12 @@
                   offsetFromSymbolStart = "955">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "QuickCopy.GameVC.init (QuickCopy.GameVC.Type)(coder : ObjectiveC.NSCoder) -&gt; QuickCopy.GameVC"
                   moduleName = "QuickCopy"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Lucas/Desktop/QuickCopy/QuickCopy/QuickCopy/GameVC.swift"
                   timestampString = "449941774.426681"
                   startingColumnNumber = "9223372036854775807"
@@ -89,22 +94,6 @@
                   offsetFromSymbolStart = "974">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "QuickCopy/GameVC.swift"
-            timestampString = "449941893.440595"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
-            landmarkName = "update()"
-            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
